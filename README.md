@@ -22,7 +22,7 @@ To use 3ex5 in your Roblox project, you can either download the source directly 
 To load the latest version of 3ex5, simply execute the following code in your game:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/your-username/3ex5/main/main_example.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/shenx4x4/3ex5/refs/heads/master/main_example.lua"))()
 ```
 
 **Note**: Replace `your-username` with the actual GitHub username where the repository will be hosted.
