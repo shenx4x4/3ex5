@@ -1,0 +1,11 @@
+{
+  "name": "3ex5",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "3ex5": {
+        "$path": "src"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "3ex5",
+  "version": "1.0.0",
+  "description": "A modern, minimalist, glassmorphism Roblox UI Library.",
+  "main": "main.lua",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/3ex5.git"
+  },
+  "keywords": [
+    "roblox",
+    "ui-library",
+    "glassmorphism",
+    "non-oop"
+  ],
+  "author": "Manus AI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/your-username/3ex5/issues"
+  },
+  "homepage": "https://github.com/your-username/3ex5#readme"
+}
